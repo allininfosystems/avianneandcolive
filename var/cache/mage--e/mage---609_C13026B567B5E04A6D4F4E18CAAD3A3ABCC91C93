@@ -1,0 +1,342 @@
+<!-- Edit Block 'Main Menu' -->
+<div class="header-nav-container">
+<div class="header-nav">
+<h4 class="no-display">Category Navigation:</h4>
+<ul id="nav">
+<li class="infoholder">
+<div class="infoimage"></div>
+<div class="infodescr"></div>
+</li>
+<li class="level0 nav-1 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-diamond-jewelry"> <span>Men</span> </a>
+<ul class="level0">
+<li class="level1 nav-1-1 first parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-diamond-rings-1"> <span>Rings</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-0"><a href="/mens-diamond-rings-1"> <span>Diamond Rings</span> </a></li>
+<li class="level2 nav-1-1-2"><a href="/mens-diamond-pinky-rings"> <span>Diamond Pinky Rings</span> </a></li>
+<li class="level2 nav-1-1-3"><a href="/mens-black-diamond-rings"> <span>Black Diamond Rings</span> </a></li>
+<li class="level2 nav-1-1-1 first"><a href="/multi-colored-diamond-rings"> <span>Colored Diamond Rings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/diamond-hip-hop-rings"> <span>Hip Hop Diamond Rings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/mens-diamond-wedding-bands"> <span>Diamond Wedding Bands</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/men-s-onyx-rings"> <span>Onyx Rings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/mens-invisible-setting-diamond-rings"> <span>Invisible Set Diamond Rings</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-1-2 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-diamond-earrings-1"> <span>Earrings</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-0"><a href="/mens-diamond-earrings-1"> <span>Diamond Earrings</span> </a></li>
+<li class="level2 nav-1-2-5 first"><a href="/mens-diamond-stud-earrings"> <span>Diamond Stud Earrings</span> </a></li>
+<li class="level2 nav-1-2-8 last"><a href="/mens-black-diamond-earrings"> <span>Black Diamond Earrings</span> </a></li>
+<li class="level2 nav-1-2-7"><a href="/mens-solitaire-diamond-earrings"> <span>Solitaire Diamond Earrings</span> </a></li>
+<li class="level2 nav-1-2-6"><a href="/mens-multi-color-diamond-earrings"> <span>Colored Diamond Earrings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/diamond-hip-hop-earrings"> <span>Hip Hop Diamond Earrings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/diamond-cluster-earrings"> <span>Cluster Diamond Earrings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/square-diamond-earrings"> <span>Square Diamond Earrings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/mens-invisible-setting-diamond-earrings"> <span>Invisible Set Diamond Earrings</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-1-5 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-diamond-bracelets-1"> <span>Bracelets</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-0"><a href="/mens-diamond-bracelets-1"> <span>Diamond Bracelets</span> </a></li>
+<li class="level2 nav-1-5-18"><a href="/gold-diamond-bangle-bracelets"> <span>Bangle Bracelets</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/diamond-hip-hop-bracelets"> <span>Hip Hop Bracelets</span> </a></li>
+<li class="level2 nav-1-5-19 last"><a href="/onyx-ball-bead-bracelet"> <span>Ball Bead Bracelets</span> </a></li>
+<li class="level2 nav-1-5-16 first"><a href="/mens-black-diamond-bracelets"> <span>Black Diamond Bracelets</span> </a></li>
+<li class="level2 nav-1-5-17"><a href="/mens-colored-diamond-bracelets"> <span>Colored Diamond Bracelets</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-1-4 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-diamond-pendants-1"> <span>Pendants</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-0"><a href="/mens-diamond-pendants-1"> <span>Diamond Pendants</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/diamond-hip-hop-pendants"> <span>Hip Hop Pendants</span> </a></li>
+<li class="level2 nav-1-4-11"><a href="/diamond-dog-tag-pendants"> <span>Diamond Dog Tags</span> </a></li>
+<li class="level2 nav-1-4-9 first"><a href="/diamond-lock-and-key-pendants"> <span>Diamond Key Pendants</span> </a></li>
+<li class="level2 nav-1-4-14"><a href="/diamond-skull-pendants"> <span>Diamond Skull Pendants</span> </a></li>
+<li class="level2 nav-1-4-13"><a href="/diamond-initial-pendants"> <span>Diamond Initial Pendants</span> </a></li>
+<li class="level2 nav-1-4-10"><a href="/mens-black-diamond-pendants"> <span>Black Diamond Pendants</span> </a></li>
+<li class="level2 nav-1-4-12"><a href="/diamond-jesus-pendants"> <span>Diamond Jesus Pendants</span> </a></li>
+<li class="level2 nav-1-4-15 "><a href="/mens-diamond-crosses"> <span>Diamond Cross Pendants</span> </a></li>
+<li class="level2 nav-1-4-16 "><a href="/diamond-angel-pendants"> <span>Diamond Angel Pendants</span> </a></li>
+<li class="level2 nav-1-4-16 "><a href="/invisible-set-diamond-cross-pendants"> <span>Invisible Set Diamond Cross Pendants</span> </a></li>
+<li class="level2 nav-1-4-16 last"><a href="/mens-invisible-set-diamond-pendants"> <span>Invisible Set Diamond Pendants</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-1-6 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-diamond-chains-1"> <span>Necklaces</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-0"><a href="/mens-diamond-chains-1"> <span>Diamond Chains</span> </a></li>
+<li class="level2 nav-1-1-2"><a href="/solid-gold-fancy-chain"> <span>Fancy Gold Chains </span> </a></li>
+<li class="level2 nav-1-6-24 last"><a href="/diamond-rosary-chains"> <span>Diamond Rosaries</span> </a></li>
+<li class="level2 nav-1-6-22"><a href="/ball-bead-necklaces"> <span>Ball Bead Necklaces</span> </a></li>
+<li class="level2 nav-1-6-23"><a href="/black-diamond-chains"> <span>Black Diamond Chains</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/solid-gold-cuban-chains"> <span>Gold Cuban Necklaces</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/solid-gold-franco-chains"> <span>Gold Franco Necklaces</span> </a></li>
+<li class="level2 nav-1-6-20 first"><a href="/diamond-tennis-chains"> <span>Diamond Tennis Chains</span> </a></li>
+<li class="level2 nav-1-6-21"><a href="/colored-diamond-chains"> <span>Colored Diamond Chains</span> </a></li>
+<li class="level2 nav-1-6-22"><a href="/sterling-silver-cuban-link-chains"> <span>Sterling Silver Cuban Link Chains</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-1-7 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/bling-hip-hop-diamond-jewelry"> <span>Hip Hop Jewelry</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-7-25 first"><a href="/diamond-hip-hop-rings"> <span>Hip Hop Rings</span> </a></li>
+<li class="level2 nav-1-7-28 last"><a href="/diamond-hip-hop-pendants"> <span>Hip Hop Chains</span> </a></li>
+<li class="level2 nav-1-7-26"><a href="/diamond-hip-hop-earrings"> <span>Hip Hop Earrings</span> </a></li>
+<li class="level2 nav-1-7-27"><a href="/diamond-hip-hop-bracelets"> <span>Hip Hop Bracelets</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-1-8 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-solid-gold-jewelry"> <span>Solid Gold Jewelry</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-8-30"><a href="/gold-bracelets"> <span>Solid Gold Bracelets</span> </a></li>
+<li class="level2 nav-1-8-31"><a href="/mens-gold-pendants"> <span>Solid Gold Pendants</span> </a></li>
+<li class="level2 nav-1-8-34"><a href="/cuban-bracelets"> <span>Gold Cuban Bracelets</span> </a></li>
+<li class="level2 nav-1-8-33"><a href="/solid-gold-cuban-chains"> <span>Gold Cuban Necklaces</span> </a></li>
+<li class="level2 nav-1-8-35"><a href="/solid-gold-franco-chains"> <span>Gold Franco Necklaces</span> </a></li>
+<li class="level2 nav-1-8-36"><a href="/solid-gold-rosary"> <span>Solid Gold Rosary</span> </a></li>
+<li class="level2 nav-1-8-37 last"><a href="/rubber-and-gold-bracelet"> <span>Rubber &amp; Gold Bracelets</span> </a></li>
+<li class="level2 nav-1-1-1-2"><a href="/solid-gold-fancy-chain"> <span>Fancy Gold Chains </span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-1-11 parent last" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-closeout-discount-diamond-jewelry"><span>Discount Jewelry</span></a>
+<ul class="level1">
+<li class="level2 nav-1-11-40 first"><a href="/closeout-discount-mens-diamond-rings"> <span>Mens Discount Rings</span> </a></li>
+<li class="level2 nav-1-11-41"><a href="/mens-discount-closeout-earrings"> <span>Mens Discount Earrings</span> </a></li>
+<li class="level2 nav-1-11-42"><a href="/mens-discount-closeout-diamond-bracelets"> <span>Mens Discount Bracelets</span> </a></li>
+<li class="level2 nav-1-11-43 last"><a href="/mens-closeout-discount-diamond-pendants"> <span>Mens Discount Pendants</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-1-3"><a href="/diamond-cufflinks"><span>Diamond Cufflinks</span></a></li>
+<li class="level1 nav-1-10"><a href="/mens-apparel"><span>Apparel</span></a></li>
+</ul>
+</li>
+<li class="level0 nav-2 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/womens-diamond-jewelry"> <span>Women</span> </a>
+<ul class="level0">
+<li class="level1 nav-2-1 first parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/womens-diamond-rings-1"> <span>Rings</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-0"><a href="/womens-diamond-rings-1"> <span>Diamond Rings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/pre-set-diamond-engagement-rings"> <span>Engagement Rings</span> </a></li>
+<li class="level2 nav-2-1-2 last"><a href="/womens-diamond-heart-rings"> <span>Diamond Heart Rings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/eternity-bands"> <span>Diamond Eternity Rings</span> </a></li>
+<li class="level2 nav-2-1-1 first"><a href="/womens-colored-diamond-rings"> <span>Colored Diamond Rings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/womens-wedding-bands"> <span>Diamond Wedding Bands</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/five-stone-diamond-rings"> <span>Five-Stone Diamond Rings</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/three-stone-diamond-rings"> <span>Three-Stone Diamond Rings</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-2 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/womens-diamond-earrings-1"> <span>Earrings</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-0"><a href="/womens-diamond-earrings-1"> <span>Diamond Earrings</span> </a></li>
+<li class="level2 nav-2-2-3 first"><a href="/semi-mount-earrings"> <span>Semi Mount Earrings</span> </a></li>
+<li class="level2 nav-2-2-8 last"><a href="/diamond-hoop-earrings"> <span>Diamond Hoop Earrings</span> </a></li>
+<li class="level2 nav-2-2-7"><a href="/womens-fashion-diamond-earrings"> <span>Unique Diamond Earrings</span> </a></li>
+<li class="level2 nav-2-2-5"><a href="/womens-colored-diamond-earrings"> <span>Colored Diamond Earrings</span> </a></li>
+<li class="level2 nav-2-2-4"><a href="/womens-diamond-solitaire-earrings"> <span>Solitaire Diamond Earrings</span> </a></li>
+<li class="level2 nav-2-2-9"><a href="/diamond-cluster-earrings"> <span>Cluster Diamond Earrings</span> </a></li>
+<li class="level2 nav-2-2-9"><a href="/invisible-set-diamond-earrings"> <span>Invisible Set Diamond Earrings</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-3 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/womens-diamond-bracelets-1"> <span>Bracelets</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-0"><a href="/womens-diamond-bracelets-1"> <span>Diamond Bracelets</span> </a></li>
+<li class="level2 nav-1-1-0"><a href="/onyx-ball-bead-bracelet"> <span>Ball Bead Bracelets</span> </a></li>
+<li class="level2 nav-2-3-10 last"><a href="/diamond-tennis-bracelets"> <span>Diamond Tennis Bracelets</span> </a></li>
+<li class="level2 nav-1-1-0"><a href="/gold-diamond-bangle-bracelets"> <span>Diamond Bangle Bracelets</span> </a></li>
+<li class="level2 nav-2-3-9 first"><a href="/colored-diamond-bracelets"> <span>Colored Diamond Bracelets</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-4 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/womens-diamond-pendants-1"> <span>Pendants</span> </a>
+<ul class="level1">
+<li class="level2 nav-1-1-0"><a href="/womens-diamond-pendants-1"> <span>Diamond Pendants</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/diamond-lock-and-key-pendants"> <span>Diamond Key Pendants</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/diamond-initial-pendants"> <span>Diamond Initial Pendants</span> </a></li>
+<li class="level2 nav-2-4-12"><a href="/diamond-heart-pendants-necklaces"> <span>Diamond Heart Pendants</span> </a></li>
+<li class="level2 nav-2-4-11 first"><a href="/womens-diamond-crosses"> <span>Diamond Cross Pendants</span> </a></li>
+<li class="level2 nav-2-4-14"><a href="/gold-diamond-circle-pendants"> <span>Diamond Circle Pendants</span> </a></li>
+<li class="level2 nav-2-4-13"><a href="/womens-journey-pendants"> <span>Diamond Journey Pendants</span> </a></li>
+<li class="level2 nav-2-4-15 last"><a href="/womens-diamond-solitaire-pendants"> <span>Diamond Solitaire Pendants</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-5 parent"><a href="/womens-diamond-necklaces"> <span>Necklaces</span> </a>
+<ul class="level1">
+<li class="level2 nav-2-5-0"><a href="/womens-diamond-necklaces"> <span>Diamond Necklaces</span> </a></li>
+<li class="level2 nav-2-5-1"><a href="/ball-bead-necklaces"> <span>Ball Bead Necklaces</span> </a></li>
+<li class="level2 nav-2-5-2 active"><a href="/womens-gold-chains-necklaces"> <span>Solid Gold Necklaces</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-8 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/diamond-pearl-jewelry"> <span>Pearl Jewelry</span> </a>
+<ul class="level1">
+<li class="level2 nav-2-8-22"><a href="/diamond-pearl-rings"> <span>Pearl Rings</span> </a></li>
+<li class="level2 nav-2-8-21"><a href="/diamond-pearl-earrings"> <span>Pearl Earrings</span> </a></li>
+<li class="level2 nav-2-8-23 last"><a href="/diamond-pearl-pendants"> <span>Pearl Pendants</span> </a></li>
+<li class="level2 nav-2-8-20 first"><a href="/diamond-pearl-necklaces"> <span>Pearl Necklaces</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-10 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/high-end-designer-jewelry"> <span>High End Jewelry</span> </a>
+<ul class="level1">
+<li class="level2 nav-2-10-28 first"><a href="/designer-rings"> <span>High End Rings</span> </a></li>
+<li class="level2 nav-2-10-29"><a href="/designer-earrings"> <span>High End Earrings</span> </a></li>
+<li class="level2 nav-2-10-30"><a href="/designer-pendants"> <span>High End Pendants</span> </a></li>
+<li class="level2 nav-2-10-31 last"><a href="/engagement-ring-settings"> <span>High End Ring Settings</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-7 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/gemstone-jewelry"> <span>Gemstone Jewelry</span> </a>
+<ul class="level1">
+<li class="level2 nav-2-7-16 first"><a href="/women-s-gemstone-jewelry"> <span>Gemstone Rings</span> </a></li>
+<li class="level2 nav-2-7-19 last"><a href="/gemstone-earrings"> <span>Gemstone Earrings</span> </a></li>
+<li class="level2 nav-2-7-17"><a href="/gemstone-bracelets"> <span>Gemstone Bracelets</span> </a></li>
+<li class="level2 nav-2-7-18"><a href="/gemstone-pendants"> <span>Gemstone Pendants</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-9 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/womens-gold-jewelry"> <span>Solid Gold Jewelry</span> </a>
+<ul class="level1">
+<li class="level2 nav-2-9-24 first"><a href="/womens-gold-bracelets"> <span>Solid Gold Bracelets</span> </a></li>
+<li class="level2 nav-2-9-26"><a href="/womens-gold-pendants"> <span>Solid Gold Pendants</span> </a></li>
+<li class="level2 nav-2-9-25"><a href="/womens-gold-chains-necklaces"> <span>Solid Gold Necklaces</span> </a></li>
+<li class="level2 nav-2-9-27 last"><a href="/womens-rubber-and-gold-bracelets"> <span>Rubber &amp; Gold Bracelets</span> </a></li>
+<li class="level2 nav-2-1-0"><a href="/gold-wedding-bands"> <span>Solid Gold Wedding Rings</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-12 parent last" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/womens-closeout-discount-jewelry"><span>Discount Jewelry</span></a>
+<ul class="level1">
+<li class="level2 nav-2-12-1 first"><a href="/womens-closeout-discount-gold-rings"> <span>Womens Discount Rings</span> </a></li>
+<li class="level2 nav-2-12-2"><a href="/womens-closeout-discount-earrings"> <span>Womens Discount Earrings</span> </a></li>
+<li class="level2 nav-2-12-3"><a href="/womens-closeout-discount-diamond-pendants"> <span>Womens Discount Pendants</span> </a></li>
+<li class="level2 nav-2-12-4 "><a href="/womens-closeout-discount-diamond-bracelets"> <span>Womens Discount Bracelets</span> </a></li>
+<li class="level2 nav-2-12-5 last"><a href="/womens-closeout-discount-necklaces"> <span>Womens Closeout Discoutn Necklaces</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-2-13"><a href="/womens-apparel"><span>Apparel</span></a></li>
+</ul>
+</li>
+<li class="level0 nav-3 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/pre-set-diamond-engagement-rings-1"> <span>Bridal</span> </a>
+<ul class="level0">
+<li class="level1 nav-3-2 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/diamond-wedding-rings"> <span>Wedding Rings</span> </a>
+<ul class="level1">
+<li class="level2 nav-3-2-6"><a href="/diamond-bridal-ring-sets"> <span>Bridal Ring Sets</span> </a></li>
+<li class="level2 nav-3-2-4 first"><a href="/mens-diamond-wedding-bands"> <span>Mens Wedding Bands</span> </a></li>
+<li class="level2 nav-3-2-7 last"><a href="/eternity-bands"> <span>Diamond Eternity Bands</span> </a></li>
+<li class="level2 nav-3-2-5 parent"><a href="/womens-wedding-bands"> <span>Womens Wedding Bands</span> </a>
+<ul class="level2 first" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)">
+<li class="level3 nav-3-1-1-0"><a href="/colored-diamond-wedding-bands"> <span>Colored Diamonds Wedding Bands</span> </a></li>
+<li class="level3 nav-3-1-1-1"><a href="/affordable-wedding-bands"> <span>Affordable Wedding Bands</span> </a></li>
+<li class="level3 nav-3-1-1-2"><a href="/custom-designed-wedding-bands"> <span>Custom Designed Wedding Bands</span> </a></li>
+<li class="level3 nav-3-1-1-3"><a href="/colored-diamond-eternity-bands"> <span>Colored Diamond Eternity Bands</span> </a></li>
+</ul>
+</li>
+<li class="level2 nav-3-2-0"><a href="/gold-wedding-bands"> <span>Solid Gold Wedding Rings</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-3-3 last parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/diamond-anniversary-rings"> <span>Anniversary Rings</span> </a>
+<ul class="level1">
+<li class="level2 nav-3-3-8 first"><a href="/five-stone-diamond-rings"> <span>Five-Stone Diamond Rings</span> </a></li>
+<li class="level2 nav-3-3-9 last"><a href="/three-stone-diamond-rings"> <span>Three-Stone Diamond Rings</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-3-1 first parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/pre-set-diamond-engagement-rings"> <span>Engagement Rings</span> </a>
+<ul class="level1">
+<li class="level2 nav-3-1-0"><a href="/diamond-bridal-ring-sets"> <span>Bridal Ring Sets</span> </a></li>
+<li class="level2 nav-3-1-1"><a href="/pre-set-diamond-engagement-rings"> <span>Engagement Rings</span> </a></li>
+<li class="level2 nav-3-1-2"><a href="/diamond-semi-mount-rings"> <span>Diamond Ring Settings</span> </a></li>
+<li class="level2 nav-3-1-3 parent"><a href="/solitaire-diamond-engagement-rings"> <span>Solitaire Diamond Rings</span> </a>
+<ul class="level2 first" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)">
+<li class="level3 nav-3-1-1-0"><a href="/colored-diamond-solitaire-rings"> <span>Colored Diamond Solitaire Rings</span> </a></li>
+</ul>
+</li>
+<li class="level2 nav-3-1-4"><a href="/diamond-vintage-engagement-rings"> <span>Vintage Engagement Rings</span> </a></li>
+<li class="level2 nav-3-1-5"><a href="/semi-precious-engagement-rings"> <span>Colored Diamond Engagement Rings</span> </a></li>
+<li class="level2 nav-3-1-6"><a href="/affordable-engagement-rings"> <span>Affordable Engagement Rings</span> </a></li>
+<li class="level2 nav-3-1-7"><a href="/custom-designed-engagement-rings"> <span>Custom Design Engagement Rings</span> </a></li>
+<li class="level2 nav-3-1-8"><a href="/diamond-promis-rings"> <span>Diamond Promise Rings</span> </a></li>
+<li class="level2 nav-3-1-9 last"><a href="/princess-cut-diamond-engagement-rings"> <span>Princess Cut Diamond Rings</span> </a></li>
+<li class="level2 nav-3-1-10"><a href="/invisible-set-diamond-engagement-rings"> <span>Invisible Set Diamond Engagement Rings</span> </a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="level0 nav-4 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/watches"> <span>Watches</span> </a>
+<ul class="level0">
+<li class="level1 nav-4-1 first parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-diamond-watches"> <span>Mens Diamond Watches</span> </a>
+<ul class="level1">
+<li class="level2 nav-4-1-1 first parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/avianne-and-co-1"> <span>Avianne and Co</span> </a>
+<ul class="level2">
+<li class="level3 nav-4-1-1-1 first"><a href="/flip-collection"> <span>Flip Collection</span> </a></li>
+<li class="level3 nav-4-1-1-2"><a href="/king-collection"> <span>King Collection</span> </a></li>
+<li class="level3 nav-4-1-1-3"><a href="/essence-collection-1"> <span>Essence Collection</span> </a></li>
+<li class="level3 nav-4-1-1-4"><a href="/jamison-collection"> <span>Jamison Collection</span> </a></li>
+<li class="level3 nav-4-1-1-5"><a href="/mens-dream-collection"> <span>Svelte Collection</span> </a></li>
+<li class="level3 nav-4-1-1-6"><a href="/jumbo-collection"> <span>Jumbo Collection</span> </a></li>
+<li class="level3 nav-4-1-1-7"><a href="/techno-touch-collection"> <span>Techno Touch Collection</span> </a></li>
+<li class="level3 nav-4-1-1-8"><a href="/ice-trend-collection-1"> <span>Ice Trend Collection</span> </a></li>
+<li class="level3 nav-4-1-1-9"><a href="/prince-collection"> <span>Prince Collection</span> </a></li>
+<li class="level3 nav-4-1-1-10"><a href="/mens-ceramic-diamond-watches"> <span>Ceramic Collection</span> </a></li>
+<li class="level3 nav-4-1-1-11 last"><a href="/octavian-collection"> <span>Octavian Collection</span> </a></li>
+</ul>
+</li>
+<li class="level2 nav-4-1-2"><a href="/mens-joe-rodeo-watches"> <span>Joe Rodeo</span> </a></li>
+<li class="level2 nav-4-1-3"><a href="/mens-diamond-rolex-watches"> <span>Rolex</span> </a></li>
+<li class="level2 nav-4-1-4 last"><a href="/mens-diamond-g-shock-watches"> <span>G-Shock</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-4-2 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/womens-diamond-watches"> <span>Womens Diamond Watches</span> </a>
+<ul class="level1">
+<li class="level2 nav-4-2-15 first parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/avianne-and-co"> <span>Avianne and Co. Watches</span> </a>
+<ul class="level2">
+<li class="level3 nav-4-2-15-12 first"><a href="/queen-collection"> <span>Queen Collection</span> </a></li>
+<li class="level3 nav-4-2-15-13"><a href="/victorian-collection"> <span>Victorian Collection</span> </a></li>
+<li class="level3 nav-4-2-15-14"><a href="/princess-collection"> <span>Princess Collection</span> </a></li>
+<li class="level3 nav-4-2-15-15"><a href="/womens-dream-collection"> <span>Svelte Collection</span> </a></li>
+<li class="level3 nav-4-2-15-16"><a href="/essence-collection"> <span>Essence Collection</span> </a></li>
+<li class="level3 nav-4-2-15-17"><a href="/ice-trend-collection"> <span>Ice Trend Collection</span> </a></li>
+<li class="level3 nav-4-2-15-18 last"><a href="/womens-ceramic-diamond-watches"> <span>Ceramic Collection</span> </a></li>
+</ul>
+</li>
+<li class="level2 nav-4-2-17 first"><a href="/womens-diamond-rolex-watches"> <span>Rolex</span> </a></li>
+<li class="level2 nav-4-2-26 last"><a href="/womens-ebel-watches"> <span>Ebel</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-4-3 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/mens-luxury-wrist-watches"> <span>Mens Luxury Watches</span> </a>
+<ul class="level1">
+<li class="level2 nav-4-3-33"><a href="/mens-rolex-watches"> <span>Rolex</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-4-4 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/womens-luxury-watches"> <span>Womens Luxury Watches</span> </a>
+<ul class="level1">
+<li class="level2 nav-4-4-49 first"><a href="/womens-rolex-watches"> <span>Rolex</span> </a></li>
+</ul>
+</li>
+<li class="level1 nav-4-5 last parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/watch-accessories"> <span>Watch Accessories</span> </a>
+<ul class="level1">
+<li class="level2 nav-4-5-59 first"><a href="/diamond-watch-bezels"> <span>Diamond Watch Bezels</span> </a></li>
+<li class="level2 nav-4-5-60 last"><a href="/diamond-watch-bands"> <span>Watch Bands</span> </a></li>
+</ul>
+</li>
+</ul>
+</li>
+<!-- li class="level0 nav-6 parent"><a href="/custom-jewelry"> <span>Custom</span> </a>
+<ul class="level0"></ul>
+</li --> <!-- li class="level0 nav-7 parent"><a href="/about"> <span>About Avianne</span> </a></li -->
+<li class="level0 nav-8 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/summer-collection" onclick="return false;"> <span>Collections</span> </a>
+<ul class="level0">
+<li class="level1 nav-8-1 first"><a href="/summer-collection"> <span>Summer Collection</span> </a></li>
+<li class="level1 nav-8-2 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/royal-collection"> <span>Royal Collection</span> </a>
+<ul class="level1">
+<li class="level2 nav-8-2-1 parent" onmouseout="toggleMenu(this,0)" onmouseover="toggleMenu(this,1)"><a href="/sterling-silver-royal-collection"> <span>Sterling Silver Royal Collection</span> </a>
+<ul class="level2">
+<li class="level3 nav-8-2-1-1 first"><a href="/sterling-silver-royal-pendants"> <span>Sterling Silver Royal Rings</span> </a></li>
+<li class="level3 nav-8-2-1-2"><a href="/sterling-silver-royal-pendants"> <span>Sterling Silver Royal Pendants</span> </a></li>
+<li class="level3 nav-8-2-1-3"><a href="/sterling-silver-royal-bracelets"> <span>Sterling Silver Royal Bracelets</span> </a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="level1 nav-8-3"><a href="/religious-collection"> <span>Religious Collection </span> </a></li>
+</ul>
+</li>
+<!-- li class="level0 nav-search"><img src="/skin/frontend/avianne-resp/default/images/skin-avianne-resp/search-ico.png" /></li -->
+<li class="level0 nav-search">
+<div class="search_mini_form"><form action="/catalogsearch/result/" id="search_mini_form" method="get"><fieldset>
+<div class="mini-search"><input class="input-text" id="search" name="q" type="text" value="" /> <input alt="Search"  type="submit" /></div>
+</fieldset><input name="order" type="hidden" value="relevance" /> <input name="dir" type="hidden" value="desc" /></form></div>
+</li>
+<li class="level0 parent nav-myaccount mobile-only"><a href="/customer/account/"><span style="color: #999999;">My Account</span></a></li>
+<li class="level0 parent nav-logout mobile-only" style="display: none;"><a href="/customer/account/logout/"><span style="color: #999999;">Log Out</span></a></li>
+</ul>
+</div>
+</div>

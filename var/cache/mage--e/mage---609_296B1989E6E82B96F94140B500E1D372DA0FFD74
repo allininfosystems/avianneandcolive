@@ -1,0 +1,58 @@
+<div class="clear"><br></div>
+
+<!-- /home/avianneandco/app/design/frontend/avianne-resp/default/template/home/footer.phtml -->
+
+</div>
+<div class="footer">
+	<div class="col col-1">
+		<h3>DEPARTMENTS</h3>
+		<a href="/watches">Watches</a><br>
+		<a href="/mens-diamond-jewelry">Mens Jewelry</a><br>
+		<a href="/custom-jewelry">Custom Jewelry</a><br>
+		<a href="/blog/celebrity-diamond-jewelry/">Celebrity Jewelry</a><br>
+		<a href="/womens-diamond-jewelry">Womens Jewelry</a><br>
+		<a href="/pre-set-diamond-engagement-rings-1">Bridal &amp; Anniversary</a><br>
+	</div>
+	<div class="col col-2">
+		<h3>ABOUT AVIANNE &AMP; CO.</h3>
+		<a href="/avianne-reviews">Visit Our Store</a><br>
+				<a href="/customer-service/#answer7">Secure Shopping Online</a><br>
+					</div>
+	<div class="col col-3">
+		<h3>CUSTOMER SERVICE</h3>
+		<a href="/customer-service/#answer13">Privacy Policy</a><br>
+		<a href="/customer-service/#answer2">Free Shipping</a><br>
+		<a href="/customer-service/#answer1">14 Day Returns</a><br>
+		<a href="/customer-service/#answer5">Payment Methods</a><br>
+		<a href="/customer-service/#answer8">Layaway Programs</a><br>
+		<a href="/customer-service/#answer4">Appraisal Certificates</a><br>
+		<a href="/customer-service/#answer6">International Shipping</a><br>
+		<a href="/customer-service/#answer14">Watch Disclaimer</a><br>
+	</div>
+	<div class="col col-4">
+		<h3>FOLLOW US</h3>
+		<a href="https://www.instagram.com/aviannejewelers/?hl=en" target="_blank">Instagram</a><br>
+		<a href="https://www.facebook.com/AvianneJewelers" target="_blank">Facebook</a><br>
+		<a href="http://www.youtube.com/user/avianneandco" target="_blank">Youtube</a><br>
+	</div>
+	<div class="col col-5">
+		<h3>CONTACT US</h3>
+		888-243-4344 - Toll Free<br>
+		+1 347-695-2512 - Outside US<br>
+		<br>
+		<form action="#" method="post" name="contactform" id="q_contactform">
+		<input type="hidden" id="page_title" name="page_title" value="">
+		<input type="hidden" id="page_link" name="page_link" value="https://www.avianneandco.com/">
+		<input type="hidden" id="send_email_to" name="send_email_to" value="">
+		<input type="hidden" name="contact_type_title" id="contact_type_title" value="">
+		<input class="input-text textbox" placeholder="Name" type="text" name="name" id="name">
+		<input class="input-text textbox" placeholder="Email Address" type="text" name="email" id="email">
+		<input class="input-text textbox" placeholder="Phone" type="text" name="phone" id="phone">
+		<textarea name="content" id="content" class="input-text" rows="5" cols="64" placeholder="Message"></textarea>
+		<input type="submit" value="Send Message">
+		</form>
+	</div>
+	<div class="copyright">&copy; 2017 Avianne and Co. All rights Reserved.</div>
+	<div class="sitemap"><a href="/catalog/seo_sitemap/category/">Site Map</a></div>
+</div>
+

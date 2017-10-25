@@ -1,0 +1,66 @@
+*** Bold News Changelog ***
+
+2012.01.23 - version 1.1.6
+ * style.css - Added styling for woo_embed() on single posts.
+ * single.php - Added missing support for woo_embed() on single posts.
+
+2011.11.16 - version 1.1.5
+ * header.php - Added Google Plus social profile.
+ * includes/theme-options.php - Added Google Plus social profile.
+ * images - Added ico-social-googleplus.png
+
+2011.09.29 - version 1.1.4
+ * style.css - fixed search results styling (lines 345 & 350).
+ * search.php - added image and post more
+
+2011.09.08 - version 1.1.3
+ * style.css - fixed thumbnail overflow issue (line 353).
+
+2011.08.05 - version 1.1.2
+ * includes/theme-options.php, 
+   includes/theme-js.php - updated slider speed options
+					
+2011.05.31 - version 1.1.1
+ * includes/slider.php - Fixed "Slider Image Height" option.
+
+2011.04.26 - version 1.1
+ * includes/theme-options.php - Added Woo Pagination (lines 145-149)
+ * includes/theme-functions.php - changed page navigation to support Woo Pagination
+ * style.css - Added Woo Pagination (lines 425-447)
+
+2011.04.14 - version 1.0.10
+ * includes/slider.php - separated if testing of tag to avoid warning message when empty tag id
+
+2011.04.07 - version 1.0.9
+ * includes/theme-actions.php - Added ", .post .title a:link, .post .title a:visited" to fix type color settings (line 115)
+ * style.css - Removed "line-height: 1.8em;" (line 352)
+
+2011.04.06 - version 1.0.8
+ * includes/js/woo-jcarousellite.js - added display:block (line 241)
+ * style.css - Removed overflow:hidden from .slider (line 282) - Added #slides:first-child .slide {display: none;} (line 286)
+
+2011.03.29 - version 1.0.7
+ * includes/theme-js.php - fixed auto start setting (line 29)
+ * style.css - Added overflow:hidden to .slider so the slider doesn't display all slides on load (line 282)
+
+2011.02.14 - version 1.0.6
+ * style.css - Edited "2.2 Navigation" to correct hover/active states
+
+2011.02.06 - version 1.0.5
+ * includes/slider.php - added wp_reset_query (line 154)
+
+2011.02.03 - version 1.0.4
+ * archive.php - add image thumb to archive.php (line 36)
+
+2011.01.26 - version 1.0.3
+ * single.php - added on/off options for social share (line 36-41) & option for "About the Post" (lines 5 & 50)
+ * theme-options.php - added on/off options for social share (line 301-335) & option for "About the Post" (lines 145-149) 
+
+2011.01.25 - version 1.0.2
+ * single.php - corrected author link (line 16)
+
+2011.01.25 - version 1.0.1
+ * single.php - corrected the social button links.
+	
+2011.01.25 - version 1.0
+ * First release!

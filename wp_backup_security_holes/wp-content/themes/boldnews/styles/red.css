@@ -1,0 +1,9 @@
+#header-wrap {
+    background-image: url("red/top-bg.png");
+}
+h1, h2, h3, h4, h5, h6,
+.archive_header,
+.post .title a:link, .post .title a:visited, 
+#comments h3,
+#comments .reply a,
+#respond h3 { color: #7b1a1a; }

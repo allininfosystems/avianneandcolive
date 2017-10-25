@@ -1,0 +1,532 @@
+2017-10-16T08:42:50+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [x_version] => 3.1
+            [x_delim_data] => True
+            [x_relay_response] => False
+            [x_test_request] => TRUE
+            [x_login] => ****
+            [x_tran_key] => ****
+            [x_type] => AUTH_ONLY
+            [x_method] => CC
+            [x_invoice_num] => 100031873
+            [x_amount] => 12025
+            [x_currency_code] => USD
+            [x_allow_partial_auth] => False
+            [x_first_name] => Lokranjan
+            [x_last_name] => varshney
+            [x_company] => Allin
+            [x_address] => test
+            [x_city] => test
+            [x_state] => Connecticut
+            [x_zip] => 41514
+            [x_country] => US
+            [x_phone] => 74774
+            [x_fax] => 
+            [x_cust_id] => 18512
+            [x_customer_ip] => 119.82.68.250
+            [x_customer_tax_id] => 
+            [x_email] => lokranjan.allin@gmail.com
+            [x_email_customer] => 0
+            [x_merchant_email] => lokranjan.allin@gmail.com
+            [x_ship_to_first_name] => Lokranjan
+            [x_ship_to_last_name] => varshney
+            [x_ship_to_company] => Allin
+            [x_ship_to_address] => test
+            [x_ship_to_city] => test
+            [x_ship_to_state] => Connecticut
+            [x_ship_to_zip] => 41514
+            [x_ship_to_country] => US
+            [x_po_num] => 
+            [x_tax] => 0
+            [x_freight] => 0
+            [x_card_num] => ****
+            [x_exp_date] => ****
+            [x_card_code] => ****
+        )
+
+    [result] => Array
+        (
+            [response_code] => 1
+            [response_subcode] => 1
+            [response_reason_code] => 1
+            [response_reason_text] => (TESTMODE) This transaction has been approved.
+            [approval_code] => 000000
+            [avs_result_code] => P
+            [transaction_id] => 0
+            [invoice_number] => 100031873
+            [description] => 
+            [amount] => 12025.00
+            [method] => CC
+            [transaction_type] => auth_only
+            [customer_id] => 18512
+            [md5_hash] => 0A9CE52A3B0DD11FBF30433A7B71F61D
+            [card_code_response_code] => 
+            [c_av_vresponse_code] => 
+            [split_tender_id] => 
+            [acc_number] => XXXX1111
+            [card_type] => Visa
+            [requested_amount] => 
+            [balance_on_card] => 
+        )
+
+    [__pid] => 14640
+)
+
+2017-10-16T09:03:00+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [x_version] => 3.1
+            [x_delim_data] => True
+            [x_relay_response] => False
+            [x_test_request] => TRUE
+            [x_login] => ****
+            [x_tran_key] => ****
+            [x_type] => AUTH_ONLY
+            [x_method] => CC
+            [x_invoice_num] => 100031874
+            [x_amount] => 12025
+            [x_currency_code] => USD
+            [x_allow_partial_auth] => False
+            [x_first_name] => Lokranjan
+            [x_last_name] => varshney
+            [x_company] => Allin
+            [x_address] => test
+            [x_city] => test
+            [x_state] => Connecticut
+            [x_zip] => 41514
+            [x_country] => US
+            [x_phone] => 74774
+            [x_fax] => 
+            [x_cust_id] => 18512
+            [x_customer_ip] => 119.82.68.250
+            [x_customer_tax_id] => 
+            [x_email] => lokranjan.allin@gmail.com
+            [x_email_customer] => 0
+            [x_merchant_email] => lokranjan.allin@gmail.com
+            [x_ship_to_first_name] => Lokranjan
+            [x_ship_to_last_name] => varshney
+            [x_ship_to_company] => Allin
+            [x_ship_to_address] => test
+            [x_ship_to_city] => test
+            [x_ship_to_state] => Connecticut
+            [x_ship_to_zip] => 41514
+            [x_ship_to_country] => US
+            [x_po_num] => 
+            [x_tax] => 0
+            [x_freight] => 0
+            [x_card_num] => ****
+            [x_exp_date] => ****
+            [x_card_code] => ****
+        )
+
+    [result] => Array
+        (
+            [response_code] => 1
+            [response_subcode] => 1
+            [response_reason_code] => 1
+            [response_reason_text] => (TESTMODE) This transaction has been approved.
+            [approval_code] => 000000
+            [avs_result_code] => P
+            [transaction_id] => 0
+            [invoice_number] => 100031874
+            [description] => 
+            [amount] => 12025.00
+            [method] => CC
+            [transaction_type] => auth_only
+            [customer_id] => 18512
+            [md5_hash] => 0A9CE52A3B0DD11FBF30433A7B71F61D
+            [card_code_response_code] => 
+            [c_av_vresponse_code] => 
+            [split_tender_id] => 
+            [acc_number] => XXXX1111
+            [card_type] => Visa
+            [requested_amount] => 
+            [balance_on_card] => 
+        )
+
+    [__pid] => 15639
+)
+
+2017-10-16T09:03:47+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [x_version] => 3.1
+            [x_delim_data] => True
+            [x_relay_response] => False
+            [x_test_request] => TRUE
+            [x_login] => ****
+            [x_tran_key] => ****
+            [x_type] => AUTH_ONLY
+            [x_method] => CC
+            [x_invoice_num] => 100031875
+            [x_amount] => 12025
+            [x_currency_code] => USD
+            [x_allow_partial_auth] => False
+            [x_first_name] => Lokranjan
+            [x_last_name] => varshney
+            [x_company] => Allin
+            [x_address] => test
+            [x_city] => test
+            [x_state] => Connecticut
+            [x_zip] => 41514
+            [x_country] => US
+            [x_phone] => 74774
+            [x_fax] => 
+            [x_cust_id] => 18512
+            [x_customer_ip] => 119.82.68.250
+            [x_customer_tax_id] => 
+            [x_email] => lokranjan.allin@gmail.com
+            [x_email_customer] => 0
+            [x_merchant_email] => lokranjan.allin@gmail.com
+            [x_ship_to_first_name] => Lokranjan
+            [x_ship_to_last_name] => varshney
+            [x_ship_to_company] => Allin
+            [x_ship_to_address] => test
+            [x_ship_to_city] => test
+            [x_ship_to_state] => Connecticut
+            [x_ship_to_zip] => 41514
+            [x_ship_to_country] => US
+            [x_po_num] => 
+            [x_tax] => 0
+            [x_freight] => 0
+            [x_card_num] => ****
+            [x_exp_date] => ****
+            [x_card_code] => ****
+        )
+
+    [result] => Array
+        (
+            [response_code] => 1
+            [response_subcode] => 1
+            [response_reason_code] => 1
+            [response_reason_text] => (TESTMODE) This transaction has been approved.
+            [approval_code] => 000000
+            [avs_result_code] => P
+            [transaction_id] => 0
+            [invoice_number] => 100031875
+            [description] => 
+            [amount] => 12025.00
+            [method] => CC
+            [transaction_type] => auth_only
+            [customer_id] => 18512
+            [md5_hash] => 0A9CE52A3B0DD11FBF30433A7B71F61D
+            [card_code_response_code] => 
+            [c_av_vresponse_code] => 
+            [split_tender_id] => 
+            [acc_number] => XXXX1111
+            [card_type] => Visa
+            [requested_amount] => 
+            [balance_on_card] => 
+        )
+
+    [__pid] => 14923
+)
+
+2017-10-16T09:07:57+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [x_version] => 3.1
+            [x_delim_data] => True
+            [x_relay_response] => False
+            [x_test_request] => TRUE
+            [x_login] => ****
+            [x_tran_key] => ****
+            [x_type] => AUTH_ONLY
+            [x_method] => CC
+            [x_invoice_num] => 100031876
+            [x_amount] => 12025
+            [x_currency_code] => USD
+            [x_allow_partial_auth] => False
+            [x_first_name] => Lokranjan
+            [x_last_name] => varshney
+            [x_company] => Allin
+            [x_address] => test
+            [x_city] => test
+            [x_state] => Connecticut
+            [x_zip] => 41514
+            [x_country] => US
+            [x_phone] => 74774
+            [x_fax] => 
+            [x_cust_id] => 18512
+            [x_customer_ip] => 119.82.68.250
+            [x_customer_tax_id] => 
+            [x_email] => lokranjan.allin@gmail.com
+            [x_email_customer] => 0
+            [x_merchant_email] => lokranjan.allin@gmail.com
+            [x_ship_to_first_name] => Lokranjan
+            [x_ship_to_last_name] => varshney
+            [x_ship_to_company] => Allin
+            [x_ship_to_address] => test
+            [x_ship_to_city] => test
+            [x_ship_to_state] => Connecticut
+            [x_ship_to_zip] => 41514
+            [x_ship_to_country] => US
+            [x_po_num] => 
+            [x_tax] => 0
+            [x_freight] => 0
+            [x_card_num] => ****
+            [x_exp_date] => ****
+            [x_card_code] => ****
+        )
+
+    [result] => Array
+        (
+            [response_code] => 1
+            [response_subcode] => 1
+            [response_reason_code] => 1
+            [response_reason_text] => (TESTMODE) This transaction has been approved.
+            [approval_code] => 000000
+            [avs_result_code] => P
+            [transaction_id] => 0
+            [invoice_number] => 100031876
+            [description] => 
+            [amount] => 12025.00
+            [method] => CC
+            [transaction_type] => auth_only
+            [customer_id] => 18512
+            [md5_hash] => 0A9CE52A3B0DD11FBF30433A7B71F61D
+            [card_code_response_code] => 
+            [c_av_vresponse_code] => 
+            [split_tender_id] => 
+            [acc_number] => XXXX1111
+            [card_type] => Visa
+            [requested_amount] => 
+            [balance_on_card] => 
+        )
+
+    [__pid] => 15508
+)
+
+2017-10-16T09:10:34+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [x_version] => 3.1
+            [x_delim_data] => True
+            [x_relay_response] => False
+            [x_test_request] => TRUE
+            [x_login] => ****
+            [x_tran_key] => ****
+            [x_type] => AUTH_ONLY
+            [x_method] => CC
+            [x_invoice_num] => 100031877
+            [x_amount] => 12025
+            [x_currency_code] => USD
+            [x_allow_partial_auth] => False
+            [x_first_name] => Lokranjan
+            [x_last_name] => varshney
+            [x_company] => Allin
+            [x_address] => test
+            [x_city] => test
+            [x_state] => Connecticut
+            [x_zip] => 41514
+            [x_country] => US
+            [x_phone] => 74774
+            [x_fax] => 
+            [x_cust_id] => 18512
+            [x_customer_ip] => 119.82.68.250
+            [x_customer_tax_id] => 
+            [x_email] => lokranjan.allin@gmail.com
+            [x_email_customer] => 0
+            [x_merchant_email] => lokranjan.allin@gmail.com
+            [x_ship_to_first_name] => Lokranjan
+            [x_ship_to_last_name] => varshney
+            [x_ship_to_company] => Allin
+            [x_ship_to_address] => test
+            [x_ship_to_city] => test
+            [x_ship_to_state] => Connecticut
+            [x_ship_to_zip] => 41514
+            [x_ship_to_country] => US
+            [x_po_num] => 
+            [x_tax] => 0
+            [x_freight] => 0
+            [x_card_num] => ****
+            [x_exp_date] => ****
+            [x_card_code] => ****
+        )
+
+    [result] => Array
+        (
+            [response_code] => 1
+            [response_subcode] => 1
+            [response_reason_code] => 1
+            [response_reason_text] => (TESTMODE) This transaction has been approved.
+            [approval_code] => 000000
+            [avs_result_code] => P
+            [transaction_id] => 0
+            [invoice_number] => 100031877
+            [description] => 
+            [amount] => 12025.00
+            [method] => CC
+            [transaction_type] => auth_only
+            [customer_id] => 18512
+            [md5_hash] => 0A9CE52A3B0DD11FBF30433A7B71F61D
+            [card_code_response_code] => 
+            [c_av_vresponse_code] => 
+            [split_tender_id] => 
+            [acc_number] => XXXX1111
+            [card_type] => Visa
+            [requested_amount] => 
+            [balance_on_card] => 
+        )
+
+    [__pid] => 15690
+)
+
+2017-10-16T10:03:49+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [x_version] => 3.1
+            [x_delim_data] => True
+            [x_relay_response] => False
+            [x_test_request] => TRUE
+            [x_login] => ****
+            [x_tran_key] => ****
+            [x_type] => AUTH_ONLY
+            [x_method] => CC
+            [x_invoice_num] => 100031878
+            [x_amount] => 990
+            [x_currency_code] => USD
+            [x_allow_partial_auth] => False
+            [x_first_name] => Lokranjan
+            [x_last_name] => varshney
+            [x_company] => Allin
+            [x_address] => test
+            [x_city] => test
+            [x_state] => Connecticut
+            [x_zip] => 41514
+            [x_country] => US
+            [x_phone] => 74774
+            [x_fax] => 
+            [x_cust_id] => 18512
+            [x_customer_ip] => 119.82.68.250
+            [x_customer_tax_id] => 
+            [x_email] => lokranjan.allin@gmail.com
+            [x_email_customer] => 0
+            [x_merchant_email] => lokranjan.allin@gmail.com
+            [x_ship_to_first_name] => Lokranjan
+            [x_ship_to_last_name] => varshney
+            [x_ship_to_company] => Allin
+            [x_ship_to_address] => test
+            [x_ship_to_city] => test
+            [x_ship_to_state] => Connecticut
+            [x_ship_to_zip] => 41514
+            [x_ship_to_country] => US
+            [x_po_num] => 
+            [x_tax] => 0
+            [x_freight] => 0
+            [x_card_num] => ****
+            [x_exp_date] => ****
+            [x_card_code] => ****
+        )
+
+    [result] => Array
+        (
+            [response_code] => 1
+            [response_subcode] => 1
+            [response_reason_code] => 1
+            [response_reason_text] => (TESTMODE) This transaction has been approved.
+            [approval_code] => 000000
+            [avs_result_code] => P
+            [transaction_id] => 0
+            [invoice_number] => 100031878
+            [description] => 
+            [amount] => 990.00
+            [method] => CC
+            [transaction_type] => auth_only
+            [customer_id] => 18512
+            [md5_hash] => 59E9C4ED64330FABEB7FFF8B6D2B0006
+            [card_code_response_code] => 
+            [c_av_vresponse_code] => 
+            [split_tender_id] => 
+            [acc_number] => XXXX1111
+            [card_type] => Visa
+            [requested_amount] => 
+            [balance_on_card] => 
+        )
+
+    [__pid] => 16032
+)
+
+2017-10-16T11:59:47+00:00 DEBUG (7): Array
+(
+    [request] => Array
+        (
+            [x_version] => 3.1
+            [x_delim_data] => True
+            [x_relay_response] => False
+            [x_test_request] => TRUE
+            [x_login] => ****
+            [x_tran_key] => ****
+            [x_type] => AUTH_ONLY
+            [x_method] => CC
+            [x_invoice_num] => 100031879
+            [x_amount] => 40
+            [x_currency_code] => USD
+            [x_allow_partial_auth] => False
+            [x_first_name] => Lokranjan
+            [x_last_name] => varshney
+            [x_company] => Allin
+            [x_address] => test
+            [x_city] => test
+            [x_state] => Connecticut
+            [x_zip] => 41514
+            [x_country] => US
+            [x_phone] => 74774
+            [x_fax] => 
+            [x_cust_id] => 18512
+            [x_customer_ip] => 119.82.68.250
+            [x_customer_tax_id] => 
+            [x_email] => lokranjan.allin@gmail.com
+            [x_email_customer] => 0
+            [x_merchant_email] => lokranjan.allin@gmail.com
+            [x_ship_to_first_name] => Lokranjan
+            [x_ship_to_last_name] => varshney
+            [x_ship_to_company] => Allin
+            [x_ship_to_address] => test
+            [x_ship_to_city] => test
+            [x_ship_to_state] => Connecticut
+            [x_ship_to_zip] => 41514
+            [x_ship_to_country] => US
+            [x_po_num] => 
+            [x_tax] => 0
+            [x_freight] => 0
+            [x_card_num] => ****
+            [x_exp_date] => ****
+            [x_card_code] => ****
+        )
+
+    [result] => Array
+        (
+            [response_code] => 1
+            [response_subcode] => 1
+            [response_reason_code] => 1
+            [response_reason_text] => (TESTMODE) This transaction has been approved.
+            [approval_code] => 000000
+            [avs_result_code] => P
+            [transaction_id] => 0
+            [invoice_number] => 100031879
+            [description] => 
+            [amount] => 40.00
+            [method] => CC
+            [transaction_type] => auth_only
+            [customer_id] => 18512
+            [md5_hash] => 85A2DC5609AD2A8721C5F5871DFA3215
+            [card_code_response_code] => 
+            [c_av_vresponse_code] => 
+            [split_tender_id] => 
+            [acc_number] => XXXX1111
+            [card_type] => Visa
+            [requested_amount] => 
+            [balance_on_card] => 
+        )
+
+    [__pid] => 13985
+)
+
